@@ -1,14 +1,27 @@
-# Proyecto de Nove Craft Inc & Afiliados
+# NoveCraftIncBot
 
-![Logo de Nove Craft Inc & Afiliados](ruta/al/logo.png)
+![Logo de Nove Craft Inc & Afiliados]([https://ruta.al.logo/nove_craft_inc_logo.png](https://images-ext-1.discordapp.net/external/K4pk_H0Ju7_rDzph9Qx0wpueZCs68m9_tdEqeIl9FKc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1218260669242282014/a_7f72c921dda1f021176bf6c08bb62ed4.gif?width=247&height=247))
 
 ## Descripción
-Este proyecto es propiedad de Nove Craft Inc & Afiliados. A continuación, se detallan las condiciones de uso, modificación y distribución.
+**NoveCraftIncBot** es un bot multipropósito de Discord con más de 500 comandos, diseñado para mejorar la experiencia de los usuarios en sus servidores. Algunas de sus funcionalidades incluyen:
+
+- **Moderación**: Herramientas avanzadas para gestionar y moderar tu servidor de manera eficiente, incluyendo:
+  - Silenciar, expulsar y banear usuarios
+  - Registro de actividades y seguimiento de infracciones
+- **Sistemas Anti-Raid**: Protección automática contra ataques de bots y raids.
+- **Automatización**: Configuración de mensajes de bienvenida, despedida y roles automáticos.
+- **Juegos y Diversión**: Comandos de entretenimiento para juegos, encuestas y más.
+- **Música**: Reproducción de música de alta calidad desde diversas plataformas.
+- **Gestión de Roles**: Asignación y gestión de roles basada en reacciones y comandos personalizados.
+- **Utilidades**: Herramientas útiles como recordatorios, temporizadores, y búsqueda de información.
+- **Integraciones**: Soporte para integraciones con APIs externas y servicios populares.
+
+NoveCraftIncBot está diseñado para ser flexible y fácil de usar, proporcionando una amplia gama de funciones para satisfacer las necesidades de cualquier comunidad de Discord.
 
 ## Licencia
 ### Licencia Propietaria de Nove Craft Inc & Afiliados
 
-Derechos de Autor (c) [Año Actual] Nove Craft Inc & Afiliados. Todos los derechos reservados.
+Derechos de Autor (c) 2025 Nove Craft Inc & Afiliados. Todos los derechos reservados.
 
 1. **Uso del Código**:
    - No se permite el uso del código de este repositorio sin el consentimiento explícito por escrito de Nove Craft Inc & Afiliados.
@@ -31,6 +44,4 @@ Derechos de Autor (c) [Año Actual] Nove Craft Inc & Afiliados. Todos los derech
 Para obtener permisos adicionales o más información, por favor contacte a Nove Craft Inc & Afiliados.
 
 ## Contacto
-Para más información, puedes ponerte en contacto con nosotros a través de [correo@example.com](mailto:correo@example.com).
-
-
+Para más información, puedes ponerte en contacto con nosotros a través de [novecraftinc@hotmail.com](mailto:novecraftinc@hotmail.com).
